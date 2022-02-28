@@ -1,1 +1,518 @@
-{"formatVersion":"1.0","generatedAt":"2022-01-12T00:56:03Z","generatedBy":{"name":"XC takamashiro"},"keywords":["swift","swiftui"],"name":"XCStudio Collection","overview":"Swift packages published by XCStudio","packages":[{"keywords":["code-quality","hacktoberfest","linter","linting","static-analysis","swift"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/realm/SwiftLint/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/realm/SwiftLint/master/README.md","summary":"A tool to enforce Swift style and conventions.","url":"https://github.com/realm/SwiftLint.git","versions":[{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.45.1: Clothes Drying Hooks","version":"0.45.1"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.45.0: Effectful Apparel","version":"0.45.0"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.44.0: Travel Size Lint Roller","version":"0.44.0"}]},{"keywords":[],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/nicklockwood/SwiftFormat/master/LICENSE.md"},"readmeURL":"https://raw.githubusercontent.com/nicklockwood/SwiftFormat/master/README.md","summary":"A command-line tool and Xcode Extension for formatting Swift code","url":"https://github.com/nicklockwood/SwiftFormat.git","versions":[{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.49.1"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.49.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.48.18"}]},{"keywords":["permissions"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/jevonmao/PermissionsSwiftUI/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/jevonmao/PermissionsSwiftUI/main/README.md","summary":"A SwiftUI package to beautifully display and handle permissions.","url":"https://github.com/jevonmao/PermissionsSwiftUI.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.4"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.3"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.2"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"}],"toolsVersion":"5.3"}},"summary":"","version":"0.0.2"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"}],"toolsVersion":"5.3"}},"version":"0.0.1"}]},{"keywords":["screenshot-testing","snapshot-testing","swift","testing"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/pointfreeco/swift-snapshot-testing/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/pointfreeco/swift-snapshot-testing/main/README.md","summary":"📸 Delightful Swift snapshot testing.","url":"https://github.com/pointfreeco/swift-snapshot-testing.git","versions":[{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.9.0"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.8.2"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.8.1"}]},{"keywords":["Line charts","Bar charts","Pie charts"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/AppPear/ChartView/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/AppPear/ChartView/master/README.md","summary":"ChartView made in SwiftUI","url":"https://github.com/AppPear/ChartView.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"2.0.0-beta.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"2.0.0-beta.1"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"11.0"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.3"}},"version":"1.5.5"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"1.5.4"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"1.5.3"}]},{"keywords":["waterfallgrid layout"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/paololeonardi/WaterfallGrid/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/paololeonardi/WaterfallGrid/master/README.md","summary":"A waterfall grid layout view for SwiftUI.","url":"https://github.com/paololeonardi/WaterfallGrid.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"1.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"1.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.4.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.3.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.3.1"}]},{"keywords":["color picker"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/hendriku/ColorPicker/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/hendriku/ColorPicker/master/README.md","summary":"Simple color picker. Looks like a wheel. Plain SwiftUI.","url":"https://github.com/hendriku/ColorPicker.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPickerRing","products":[{"name":"ColorPickerRing","targets":["ColorPickerRing"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPickerRing","name":"ColorPickerRing"}],"toolsVersion":"5.1"}},"version":"v2.1.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"version":"2.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"2.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"1.0.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"HotFix: Xcode11-beta-4","version":"1.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"1.0.0"}]},{"keywords":["WebImage","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/SDWebImage/SDWebImageSwiftUI/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/SDWebImage/SDWebImageSwiftUI/master/README.md","summary":"SwiftUI Image loading and Animation framework powered by SDWebImage","url":"https://github.com/SDWebImage/SDWebImageSwiftUI.git","versions":[{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.2"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.1"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.5.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.4.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.3.4"}]},{"keywords":["WebImage","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md","summary":"A lightweight, pure-Swift library for downloading and caching images from the web.","url":"https://github.com/onevcat/Kingfisher.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.3.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.3.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.2.1"}]},{"keywords":["ios","keychain","swift"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/evgenyneu/keychain-swift/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/evgenyneu/keychain-swift/master/README.md","summary":"Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.","url":"https://github.com/evgenyneu/keychain-swift.git","versions":[{"defaultToolsVersion":"5.5","manifests":{"5.5":{"packageName":"KeychainSwift","products":[{"name":"KeychainSwift","targets":["KeychainSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"KeychainSwift","name":"KeychainSwift"}],"toolsVersion":"5.5"}},"version":"20.0.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"KeychainSwift","products":[{"name":"KeychainSwift","targets":["KeychainSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"KeychainSwift","name":"KeychainSwift"}],"toolsVersion":"4.2"}},"version":"19.0.0"}]},{"keywords":["Network Lib","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/Alamofire/Alamofire/master/LICENSE"},"readmeURL":"https://github.com/Alamofire/Alamofire/blob/master/README.md","summary":"Elegant HTTP Networking in Swift","url":"https://github.com/Alamofire/Alamofire.git","versions":[{"defaultToolsVersion":"5.5","manifests":{"5.5":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.5"}},"version":"5.5.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.1"}},"version":"5.4.4"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.1"}},"version":"5.4.3"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.0"}},"version":"4.9.1"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.0"}},"version":"4.9.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"4.2"}},"version":"4.8.2"}]},{"keywords":["architecture","composition","modularity","swiftui","testability","uikit","unidirectional-data-flow"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/pointfreeco/swift-composable-architecture/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/pointfreeco/swift-composable-architecture/main/README.md","summary":"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.","url":"https://github.com/pointfreeco/swift-composable-architecture.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.33.1"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.33.0"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.32.0"}]},{"keywords":["keyboard manager"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/LICENSE.md"},"readmeURL":"https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/README.md","summary":"Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.","url":"https://github.com/hackiftekhar/IQKeyboardManager.git","versions":[{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"5.0"}},"summary":"","version":"v6.5.9"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"5.0"}},"summary":"","version":"v6.5.8"},{"defaultToolsVersion":"4.0","manifests":{"4.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"4.0"}},"summary":"","version":"v6.5.7"}]},{"keywords":["apple","card","ios","ipados","over","slide","swift","swiftui"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/joogps/SlideOverCard/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/joogps/SlideOverCard/main/README.md","summary":"A SwiftUI card view, made great for setup interactions.","url":"https://github.com/joogps/SlideOverCard.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"2.0.0"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.6"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.5"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.4"}]}]}
+{"formatVersion":"1.0","generatedAt":"2022-01-12T00:56:03Z","generatedBy":{"name":"XC takamashiro"},"keywords":["swift","swiftui"],"name":"XCStudio Collection","overview":"Swift packages published by XCStudio","packages":[{"keywords":["code-quality","hacktoberfest","linter","linting","static-analysis","swift"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/realm/SwiftLint/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/realm/SwiftLint/master/README.md","summary":"A tool to enforce Swift style and conventions.","url":"https://github.com/realm/SwiftLint.git","versions":[{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.45.1: Clothes Drying Hooks","version":"0.45.1"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.45.0: Effectful Apparel","version":"0.45.0"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"}],"packageName":"SwiftLint","products":[{"name":"SwiftLintFramework","targets":["SwiftLintFramework"],"type":{"library":["automatic"]}},{"name":"swiftlint","targets":["swiftlint"],"type":{"executable":null}}],"targets":[{"moduleName":"SwiftLintFramework","name":"SwiftLintFramework"},{"moduleName":"swiftlint","name":"swiftlint"}],"toolsVersion":"5.2"}},"summary":"0.44.0: Travel Size Lint Roller","version":"0.44.0"}]},{"keywords":[],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/nicklockwood/SwiftFormat/master/LICENSE.md"},"readmeURL":"https://raw.githubusercontent.com/nicklockwood/SwiftFormat/master/README.md","summary":"A command-line tool and Xcode Extension for formatting Swift code","url":"https://github.com/nicklockwood/SwiftFormat.git","versions":[{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.49.1"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.49.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"SwiftFormat","products":[{"name":"SwiftFormat","targets":["SwiftFormat"],"type":{"library":["automatic"]}},{"name":"swiftformat","targets":["CommandLineTool"],"type":{"executable":null}}],"targets":[{"moduleName":"CommandLineTool","name":"CommandLineTool"},{"moduleName":"SwiftFormat","name":"SwiftFormat"}],"toolsVersion":"4.2"}},"version":"0.48.18"}]},{"keywords":["permissions"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/jevonmao/PermissionsSwiftUI/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/jevonmao/PermissionsSwiftUI/main/README.md","summary":"A SwiftUI package to beautifully display and handle permissions.","url":"https://github.com/jevonmao/PermissionsSwiftUI.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.4"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.3"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"CorePermissionsSwiftUI","targets":["CorePermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIBluetooth","targets":["PermissionsSwiftUIBluetooth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICalendar","targets":["PermissionsSwiftUICalendar"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUICamera","targets":["PermissionsSwiftUICamera"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIContacts","targets":["PermissionsSwiftUIContacts"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIHealth","targets":["PermissionsSwiftUIHealth"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocation","targets":["PermissionsSwiftUILocation"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUILocationAlways","targets":["PermissionsSwiftUILocationAlways"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMicrophone","targets":["PermissionsSwiftUIMicrophone"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMotion","targets":["PermissionsSwiftUIMotion"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIMusic","targets":["PermissionsSwiftUIMusic"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUINotification","targets":["PermissionsSwiftUINotification"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIPhoto","targets":["PermissionsSwiftUIPhoto"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUIReminder","targets":["PermissionsSwiftUIReminder"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISiri","targets":["PermissionsSwiftUISiri"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUISpeech","targets":["PermissionsSwiftUISpeech"],"type":{"library":["automatic"]}},{"name":"PermissionsSwiftUITracking","targets":["PermissionsSwiftUITracking"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"CorePermissionsSwiftUI","name":"CorePermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"},{"moduleName":"PermissionsSwiftUIBluetooth","name":"PermissionsSwiftUIBluetooth"},{"moduleName":"PermissionsSwiftUICalendar","name":"PermissionsSwiftUICalendar"},{"moduleName":"PermissionsSwiftUICamera","name":"PermissionsSwiftUICamera"},{"moduleName":"PermissionsSwiftUIContacts","name":"PermissionsSwiftUIContacts"},{"moduleName":"PermissionsSwiftUIHealth","name":"PermissionsSwiftUIHealth"},{"moduleName":"PermissionsSwiftUILocation","name":"PermissionsSwiftUILocation"},{"moduleName":"PermissionsSwiftUILocationAlways","name":"PermissionsSwiftUILocationAlways"},{"moduleName":"PermissionsSwiftUIMicrophone","name":"PermissionsSwiftUIMicrophone"},{"moduleName":"PermissionsSwiftUIMotion","name":"PermissionsSwiftUIMotion"},{"moduleName":"PermissionsSwiftUIMusic","name":"PermissionsSwiftUIMusic"},{"moduleName":"PermissionsSwiftUINotification","name":"PermissionsSwiftUINotification"},{"moduleName":"PermissionsSwiftUIPhoto","name":"PermissionsSwiftUIPhoto"},{"moduleName":"PermissionsSwiftUIReminder","name":"PermissionsSwiftUIReminder"},{"moduleName":"PermissionsSwiftUISiri","name":"PermissionsSwiftUISiri"},{"moduleName":"PermissionsSwiftUISpeech","name":"PermissionsSwiftUISpeech"},{"moduleName":"PermissionsSwiftUITracking","name":"PermissionsSwiftUITracking"}],"toolsVersion":"5.3"}},"version":"1.5.2"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"}],"toolsVersion":"5.3"}},"summary":"","version":"0.0.2"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"PermissionsSwiftUI","products":[{"name":"PermissionsSwiftUI","targets":["PermissionsSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"PermissionsSwiftUI","name":"PermissionsSwiftUI"}],"toolsVersion":"5.3"}},"version":"0.0.1"}]},{"keywords":["screenshot-testing","snapshot-testing","swift","testing"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/pointfreeco/swift-snapshot-testing/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/pointfreeco/swift-snapshot-testing/main/README.md","summary":"📸 Delightful Swift snapshot testing.","url":"https://github.com/pointfreeco/swift-snapshot-testing.git","versions":[{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.9.0"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.8.2"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"10.0"}],"packageName":"SnapshotTesting","products":[{"name":"SnapshotTesting","targets":["SnapshotTesting"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SnapshotTesting","name":"SnapshotTesting"}],"toolsVersion":"5.0"}},"version":"1.8.1"}]},{"keywords":["Line charts","Bar charts","Pie charts"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/AppPear/ChartView/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/AppPear/ChartView/master/README.md","summary":"ChartView made in SwiftUI","url":"https://github.com/AppPear/ChartView.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"2.0.0-beta.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"2.0.0-beta.1"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"11.0"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.3"}},"version":"1.5.5"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"1.5.4"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"watchos","version":"6.0"},{"name":"macos","version":"10.15"}],"packageName":"SwiftUICharts","products":[{"name":"SwiftUICharts","targets":["SwiftUICharts"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftUICharts","name":"SwiftUICharts"}],"toolsVersion":"5.1"}},"version":"1.5.3"}]},{"keywords":["waterfallgrid layout"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/paololeonardi/WaterfallGrid/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/paololeonardi/WaterfallGrid/master/README.md","summary":"A waterfall grid layout view for SwiftUI.","url":"https://github.com/paololeonardi/WaterfallGrid.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"1.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"1.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.4.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.3.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"WaterfallGrid","products":[{"name":"WaterfallGrid","targets":["WaterfallGrid"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WaterfallGrid","name":"WaterfallGrid"}],"toolsVersion":"5.1"}},"version":"0.3.1"}]},{"keywords":["color picker"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/hendriku/ColorPicker/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/hendriku/ColorPicker/master/README.md","summary":"Simple color picker. Looks like a wheel. Plain SwiftUI.","url":"https://github.com/hendriku/ColorPicker.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPickerRing","products":[{"name":"ColorPickerRing","targets":["ColorPickerRing"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPickerRing","name":"ColorPickerRing"}],"toolsVersion":"5.1"}},"version":"v2.1.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"version":"2.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"2.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"1.0.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"HotFix: Xcode11-beta-4","version":"1.0.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"}],"packageName":"ColorPicker","products":[{"name":"ColorPicker","targets":["ColorPicker"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"ColorPicker","name":"ColorPicker"}],"toolsVersion":"5.1"}},"summary":"","version":"1.0.0"}]},{"keywords":["图片缓存","WebImage","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/SDWebImage/SDWebImageSwiftUI/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/SDWebImage/SDWebImageSwiftUI/master/README.md","summary":"SwiftUI Image loading and Animation framework powered by SDWebImage","url":"https://github.com/SDWebImage/SDWebImageSwiftUI.git","versions":[{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.2"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.1"},{"defaultToolsVersion":"5.2","manifests":{"5.2":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.2"}},"summary":"","version":"2.0.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.5.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.4.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.15"},{"name":"ios","version":"13.0"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"SDWebImageSwiftUI","products":[{"name":"SDWebImageSwiftUI","targets":["SDWebImageSwiftUI"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SDWebImageSwiftUI","name":"SDWebImageSwiftUI"}],"toolsVersion":"5.1"}},"summary":"","version":"1.3.4"}]},{"keywords":["图片缓存","WebImage","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md","summary":"A lightweight, pure-Swift library for downloading and caching images from the web.","url":"https://github.com/onevcat/Kingfisher.git","versions":[{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.2"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"12.0"},{"name":"macos","version":"10.14"},{"name":"tvos","version":"12.0"},{"name":"watchos","version":"5.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"7.1.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.3.1"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.3.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1"}},"summary":"","version":"6.2.1"}]},{"keywords":["ios","keychain","swift"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/evgenyneu/keychain-swift/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/evgenyneu/keychain-swift/master/README.md","summary":"Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.","url":"https://github.com/evgenyneu/keychain-swift.git","versions":[{"defaultToolsVersion":"5.5","manifests":{"5.5":{"packageName":"KeychainSwift","products":[{"name":"KeychainSwift","targets":["KeychainSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"KeychainSwift","name":"KeychainSwift"}],"toolsVersion":"5.5"}},"version":"20.0.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"KeychainSwift","products":[{"name":"KeychainSwift","targets":["KeychainSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"KeychainSwift","name":"KeychainSwift"}],"toolsVersion":"4.2"}},"version":"19.0.0"}]},{"keywords":["网络请求","Network Lib","swift","SwiftUI"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/Alamofire/Alamofire/master/LICENSE"},"readmeURL":"https://github.com/Alamofire/Alamofire/blob/master/README.md","summary":"Elegant HTTP Networking in Swift","url":"https://github.com/Alamofire/Alamofire.git","versions":[{"defaultToolsVersion":"5.5","manifests":{"5.5":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.5"}},"version":"5.5.0"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.1"}},"version":"5.4.4"},{"defaultToolsVersion":"5.1","manifests":{"5.1":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.1"}},"version":"5.4.3"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.0"}},"version":"4.9.1"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"5.0"}},"version":"4.9.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"Alamofire","products":[{"name":"Alamofire","targets":["Alamofire"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Alamofire","name":"Alamofire"}],"toolsVersion":"4.2"}},"version":"4.8.2"}]},{"keywords":["architecture","composition","modularity","swiftui","testability","uikit","unidirectional-data-flow"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/pointfreeco/swift-composable-architecture/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/pointfreeco/swift-composable-architecture/main/README.md","summary":"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.","url":"https://github.com/pointfreeco/swift-composable-architecture.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.33.1"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.33.0"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"},{"name":"macos","version":"10.15"},{"name":"tvos","version":"13.0"},{"name":"watchos","version":"6.0"}],"packageName":"swift-composable-architecture","products":[{"name":"ComposableArchitecture","targets":["ComposableArchitecture"],"type":{"library":["automatic"]}},{"name":"swift-composable-architecture-benchmark","targets":["swift-composable-architecture-benchmark"],"type":{"executable":null}}],"targets":[{"moduleName":"ComposableArchitecture","name":"ComposableArchitecture"},{"moduleName":"swift_composable_architecture_benchmark","name":"swift-composable-architecture-benchmark"}],"toolsVersion":"5.3"}},"version":"0.32.0"}]},{"keywords":["keyboard manager"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/LICENSE.md"},"readmeURL":"https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/README.md","summary":"Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.","url":"https://github.com/hackiftekhar/IQKeyboardManager.git","versions":[{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"5.0"}},"summary":"","version":"v6.5.9"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"5.0"}},"summary":"","version":"v6.5.8"},{"defaultToolsVersion":"4.0","manifests":{"4.0":{"packageName":"IQKeyboardManagerSwift","products":[{"name":"IQKeyboardManagerSwift","targets":["IQKeyboardManagerSwift"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"IQKeyboardManagerSwift","name":"IQKeyboardManagerSwift"}],"toolsVersion":"4.0"}},"summary":"","version":"v6.5.7"}]},{"keywords":["apple","card","ios","ipados","over","slide","swift","swiftui"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/joogps/SlideOverCard/main/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/joogps/SlideOverCard/main/README.md","summary":"A SwiftUI card view, made great for setup interactions.","url":"https://github.com/joogps/SlideOverCard.git","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"13.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"2.0.0"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.6"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.5"},{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"SlideOverCard","products":[{"name":"SlideOverCard","targets":["SlideOverCard"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SlideOverCard","name":"SlideOverCard"}],"toolsVersion":"5.3"}},"version":"1.2.4"}]},{"keywords":["atom","atom-feed-parser","atom-reader","feed-parser","feedkit","parsing","rss","rss-feed-parser","rss-reader","swift"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/nmdias/FeedKit/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/nmdias/FeedKit/master/README.md","summary":"An RSS, Atom and JSON Feed parser written in Swift","url":"https://github.com/nmdias/FeedKit.git","versions":[{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"FeedKit","products":[{"name":"FeedKit","targets":["FeedKit"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"FeedKit","name":"FeedKit"}],"toolsVersion":"5.0"}},"summary":"","version":"9.1.2"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"FeedKit","products":[{"name":"FeedKit","targets":["FeedKit"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"FeedKit","name":"FeedKit"}],"toolsVersion":"5.0"}},"summary":"","version":"9.1.1"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.12"},{"name":"ios","version":"10.0"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"FeedKit","products":[{"name":"FeedKit","targets":["FeedKit"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"FeedKit","name":"FeedKit"}],"toolsVersion":"5.0"}},"summary":"","version":"9.1.0"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"FeedKit","products":[{"name":"FeedKit","targets":["FeedKit"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"FeedKit","name":"FeedKit"}],"toolsVersion":"4.2"}},"summary":"","version":"8.1.1"},{"defaultToolsVersion":"4.2","manifests":{"4.2":{"packageName":"FeedKit","products":[{"name":"FeedKit","targets":["FeedKit"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"FeedKit","name":"FeedKit"}],"toolsVersion":"4.2"}},"summary":"","version":"8.1.0"}]},{
+    "keywords": [
+      "JSON解析"
+    ],
+    "license": {
+      "name": "MIT",
+      "url": "https://raw.githubusercontent.com/SwiftyJSON/SwiftyJSON/master/LICENSE"
+    },
+    "readmeURL": "https://raw.githubusercontent.com/SwiftyJSON/SwiftyJSON/master/README.md",
+    "summary": "The better way to deal with JSON data in Swift.",
+    "url": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+    "versions": [
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "packageName": "SwiftyJSON",
+            "products": [
+              {
+                "name": "SwiftyJSON",
+                "targets": [
+                  "SwiftyJSON"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "SwiftyJSON",
+                "name": "SwiftyJSON"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "5.0.1"
+      },
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "minimumPlatformVersions": [
+              {
+                "name": "macos",
+                "version": "10.10"
+              },
+              {
+                "name": "ios",
+                "version": "8.0"
+              },
+              {
+                "name": "tvos",
+                "version": "9.0"
+              },
+              {
+                "name": "watchos",
+                "version": "3.0"
+              }
+            ],
+            "packageName": "SwiftyJSON",
+            "products": [
+              {
+                "name": "SwiftyJSON",
+                "targets": [
+                  "SwiftyJSON"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "SwiftyJSON",
+                "name": "SwiftyJSON"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "5.0.0"
+      },
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "minimumPlatformVersions": [
+              {
+                "name": "macos",
+                "version": "10.10"
+              },
+              {
+                "name": "ios",
+                "version": "8.0"
+              },
+              {
+                "name": "tvos",
+                "version": "9.0"
+              },
+              {
+                "name": "watchos",
+                "version": "3.0"
+              }
+            ],
+            "packageName": "SwiftyJSON",
+            "products": [
+              {
+                "name": "SwiftyJSON",
+                "targets": [
+                  "SwiftyJSON"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "SwiftyJSON",
+                "name": "SwiftyJSON"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "4.3.0"
+      }
+    ]
+  },
+  {
+    "keywords": [
+      "HTML Parse"
+    ],
+    "license": {
+      "name": "MIT",
+      "url": "https://raw.githubusercontent.com/tid-kijyun/Kanna/master/LICENSE"
+    },
+    "readmeURL": "https://raw.githubusercontent.com/tid-kijyun/Kanna/master/README.md",
+    "summary": "Kanna(鉋) is an XML/HTML parser for Swift.",
+    "url": "https://github.com/tid-kijyun/Kanna.git",
+    "versions": [
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "5.2.7"
+      },
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "5.2.6"
+      },
+      {
+        "defaultToolsVersion": "5.0",
+        "manifests": {
+          "5.0": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "5.0"
+          }
+        },
+        "version": "5.2.5"
+      },
+      {
+        "defaultToolsVersion": "4.2",
+        "manifests": {
+          "4.2": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "4.2"
+          }
+        },
+        "version": "4.0.3"
+      },
+      {
+        "defaultToolsVersion": "4.0",
+        "manifests": {
+          "4.0": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "4.0"
+          }
+        },
+        "version": "4.0.2"
+      },
+      {
+        "defaultToolsVersion": "4.0",
+        "manifests": {
+          "4.0": {
+            "packageName": "Kanna",
+            "products": [
+              {
+                "name": "Kanna",
+                "targets": [
+                  "Kanna"
+                ],
+                "type": {
+                  "library": [
+                    "automatic"
+                  ]
+                }
+              }
+            ],
+            "targets": [
+              {
+                "moduleName": "Kanna",
+                "name": "Kanna"
+              }
+            ],
+            "toolsVersion": "4.0"
+          }
+        },
+        "version": "4.0.1"
+      }
+    ]
+  },{
+      "keywords": [
+        "HTML Parse"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/scinfu/SwiftSoup/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/scinfu/SwiftSoup/master/README.md",
+      "summary": "SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",
+      "url": "https://github.com/scinfu/SwiftSoup.git",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.0",
+          "manifests": {
+            "5.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "5.0"
+            }
+          },
+          "summary": "2.3.8",
+          "version": "2.3.8"
+        },
+        {
+          "defaultToolsVersion": "5.0",
+          "manifests": {
+            "5.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "5.0"
+            }
+          },
+          "summary": "2.3.7",
+          "version": "2.3.7"
+        },
+        {
+          "defaultToolsVersion": "5.0",
+          "manifests": {
+            "5.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "5.0"
+            }
+          },
+          "summary": "2.3.6",
+          "version": "2.3.6"
+        },
+        {
+          "defaultToolsVersion": "4.1",
+          "manifests": {
+            "4.1": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.1"
+            }
+          },
+          "summary": "",
+          "version": "1.7.5"
+        },
+        {
+          "defaultToolsVersion": "4.1",
+          "manifests": {
+            "4.1": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.1"
+            }
+          },
+          "summary": "",
+          "version": "1.7.4"
+        },
+        {
+          "defaultToolsVersion": "4.0",
+          "manifests": {
+            "4.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.0"
+            }
+          },
+          "summary": "",
+          "version": "1.7.3"
+        }
+      ]
+    }]}

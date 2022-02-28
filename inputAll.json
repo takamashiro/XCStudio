@@ -4,6 +4,9 @@
   "keywords": ["swift","swiftui"],
   "packages": [
     {
+      "url":"https://github.com/nmdias/FeedKit.git"
+    },
+    {
       "url": "https://github.com/realm/SwiftLint.git"
     },
     {
