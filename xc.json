@@ -515,4 +515,4 @@
           "version": "1.7.3"
         }
       ]
-    }]}
+    },{"keywords":["lottie","animate"],"url":"https://github.com/airbnb/lottie-ios","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"},{"name":"macos","version":"10.10"},{"name":"tvos","version":"11.0"}],"packageName":"Lottie","products":[{"name":"Lottie","targets":["Lottie"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Lottie","name":"Lottie"}],"toolsVersion":"5.3"}},"version":"3.3.0"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"9.0"}],"packageName":"Lottie","products":[{"name":"Lottie","targets":["Lottie"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Lottie","name":"Lottie"}],"toolsVersion":"5.0"}},"version":"3.2.3"},{"defaultToolsVersion":"5.0","manifests":{"5.0":{"minimumPlatformVersions":[{"name":"ios","version":"9.0"}],"packageName":"Lottie","products":[{"name":"Lottie","targets":["Lottie"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Lottie","name":"Lottie"}],"toolsVersion":"5.0"}},"version":"3.2.2"}]}]}
