@@ -1,5 +1,7 @@
 # XCStudio spc
-#totoal:19
+#totoal:20
+
+https://github.com/firebase/firebase-ios-sdk.git
 
 https://github.com/airbnb/lottie-ios
 
