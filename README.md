@@ -1,5 +1,11 @@
 # XCStudio spc
-#totoal:20
+#totoal:23
+
+https://github.com/sindresorhus/LaunchAtLogin.git
+
+https://github.com/elai950/AlertToast.git
+
+https://github.com/sindresorhus/KeyboardShortcuts.git
 
 https://github.com/firebase/firebase-ios-sdk.git
 
