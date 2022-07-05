@@ -1,5 +1,7 @@
 # XCStudio spc
-#totoal:23
+#totoal:24
+
+https://github.com/Juanpe/SkeletonView.git
 
 https://github.com/sindresorhus/LaunchAtLogin.git
 
