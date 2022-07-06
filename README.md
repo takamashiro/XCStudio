@@ -1,5 +1,7 @@
 # XCStudio spc
-#totoal:24
+#totoal:25
+
+https://github.com/CSolanaM/SkeletonUI.git
 
 https://github.com/Juanpe/SkeletonView.git
 
